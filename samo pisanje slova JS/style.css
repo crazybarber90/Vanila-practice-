@@ -1,0 +1,11 @@
+body {
+    background-color: rebeccapurple;
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+    color: bisque;
+    justify-content: center;
+    min-height: 100vh;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
